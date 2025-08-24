@@ -10,22 +10,10 @@ It showcases my skills, projects, achievements, and provides an easy way to conn
 - Projects and achievements showcase
 - Contact links and resume download option
 
-## 📂 Project Structure
-MyPortfolio/
-│── index.html # Main page
-│── style.css # Stylesheet
-│── script.js # JavaScript functionality
-│── assets/ # Images, icons, resume, etc.
-
-
-
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-
-## 📸 Preview
-![Portfolio Screenshot](assets/screenshot.png)
 
 ## 🔗 Live Demo
 [Click here to view](https://imabhishek02.github.io/MyPortfolio/)
